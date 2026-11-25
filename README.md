@@ -120,8 +120,8 @@ shasum -a 256 HushWise-2.1.3-macos-arm64.dmg
 
 | File | SHA-256 |
 |---|---|
-| HushWise-2.1.3-setup.exe | `c377a0eaaaa310622d70af68b5a29df3903ae72e2205efac78d477a5092a5af8` |
-| HushWise-2.1.3-macos-arm64.dmg | `90ac9aeefac8b0be8b9cf9442440c3fc9d32fc5e0245b6f6fed50e2870422c67` |
+| HushWise-2.1.3-setup.exe | `ed6c1c9456ad49c80af9168c375c0ff9630cc1900c495bb040ad2d2eea96bc9f` |
+| HushWise-2.1.3-macos-arm64.dmg | `52941bc12309e8daffc3dc92b8b01bac5848ddf55a6857dac8cac2a7488c79c0` |
 
 ## Frequently asked questions
 
